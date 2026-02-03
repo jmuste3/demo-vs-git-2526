@@ -35,7 +35,7 @@
             // 
             // button1
             // 
-            button1.Location = new Point(216, 177);
+            button1.Location = new Point(594, 50);
             button1.Name = "button1";
             button1.Size = new Size(75, 23);
             button1.TabIndex = 0;
@@ -46,7 +46,7 @@
             // checkBox1
             // 
             checkBox1.AutoSize = true;
-            checkBox1.Location = new Point(12, 177);
+            checkBox1.Location = new Point(88, 145);
             checkBox1.Name = "checkBox1";
             checkBox1.Size = new Size(83, 19);
             checkBox1.TabIndex = 1;
